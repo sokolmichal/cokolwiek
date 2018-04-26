@@ -4,7 +4,7 @@ public class Tescik {
     private String ciasto;
     private String szarlotka;
 
-    public void setCiasto(String ciasto) {
+    public void setCiasto(String ciasto,String sernik) {
         this.ciasto = ciasto;
     }
 

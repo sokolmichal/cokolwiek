@@ -7,5 +7,6 @@ public class Main {
         System.out.println("do wyslania");
         System.out.println("nastepny");
         System.out.println("i jeszcze raz");
+
     }
 }

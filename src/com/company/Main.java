@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("do wyslania");
         System.out.println("nastepny");
+        System.out.println("i jeszcze raz");
     }
 }
